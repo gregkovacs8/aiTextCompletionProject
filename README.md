@@ -1,6 +1,6 @@
 # GPT-3.5 Turbo CLI Chatbot
 
-This is a simple command-line chatbot that uses OpenAI’s GPT-3.5 Turbo model. You type something in the terminal, and the AI replies.
+This project is a command-line-based chatbot that leverages OpenAI’s GPT-3.5 Turbo model to generate intelligent responses to user input entered via the terminal.
 
 ## Requirements
 
@@ -10,7 +10,7 @@ This is a simple command-line chatbot that uses OpenAI’s GPT-3.5 Turbo model. 
 
 ## Installation
 
-1. Install the OpenAI Python package: (pip install openai)
+1. Install the OpenAI Python package: pip install openai
 2. Set your OpenAI key as an environment variable: set OPENAI_API_KEY= your-api-key
 
 ## How to Run
